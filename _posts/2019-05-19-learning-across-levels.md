@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Learning Across LEvels"
+title:  "Learning Across Levels"
 date:   2019-05-19
 categories:
 
