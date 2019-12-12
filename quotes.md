@@ -5,6 +5,9 @@ permalink: /quotes
 
 ---
 
+> The days are long but the decades are short.
+- Sam Altman
+
 > You are remembered for the rules you break.
 - Douglas MacArthur, Phil Knight
 
